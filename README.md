@@ -14,12 +14,12 @@ This repository contains the source code for an E-commerce Product Page. The pro
 **JavaScript:** Interactive functionality for the cart and menu.
 
 ## Demo
-Check out the live demo of the project [here]()
+Check out the live demo of the project [here](https://prathameshchaughule.github.io/E-commerce-Product-Page/)
 
 ## Screenshots
 ![Screenshot 1](Screenshot/Screenshot1.png)
-![Screenshot 1](Screenshot/Screenshot 2.png)
-![Screenshot 1](Screenshot/Screenshot 3.png)
+![Screenshot 2](Screenshot/Screenshot 2.png)
+![Screenshot 3](Screenshot/Screenshot 3.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
