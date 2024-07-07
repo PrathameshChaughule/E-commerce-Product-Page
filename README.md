@@ -17,9 +17,9 @@ This repository contains the source code for an E-commerce Product Page. The pro
 Check out the live demo of the project [here]()
 
 ## Screenshots
-![Screenshot 1](Screenshots/Screenshot1.png)
-![Screenshot 1](Screenshots/Screenshot2.png)
-![Screenshot 1](Screenshots/Screenshot3.png)
+![Screenshot 1](Screenshot/Screenshot1.png)
+![Screenshot 1](Screenshot/Screenshot 2.png)
+![Screenshot 1](Screenshot/Screenshot 3.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
