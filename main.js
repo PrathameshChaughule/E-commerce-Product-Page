@@ -25,6 +25,16 @@ closeMenu.onclick =() => {
     menu.classList.remove("active5");
 };
 
+// Open/Close Cart in Menu
+let cartIcon1 = document.querySelector('#cart-icon1');
+let cart1 = document.querySelector('.cart');
+let menu1 = document.querySelector('.menu');
+
+cartIcon1.onclick =() => {
+    cart1.classList.add("active");
+    menu1.classList.remove("active5");
+};
+
 
 // Cart Working
 if (document.readyState == 'loading'){
